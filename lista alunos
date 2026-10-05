@@ -1,0 +1,5 @@
+#lista de chamadas alunos
+nomes = ["ana", "pedro"]
+nomes.append("maria")
+nomes.remove("pedro")
+print(nomes)
